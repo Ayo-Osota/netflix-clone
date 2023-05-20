@@ -1,0 +1,1165 @@
+{
+    "kind": "youtube#activityListResponse",
+    "etag": "nj4TyO5UPkRyVJ6dS_UmftPVrIw",
+    "items": [
+      {
+        "kind": "youtube#activity",
+        "etag": "8iUr70e1o3GWBPkzkZkW06JIKNA",
+        "id": "MTUxNjg0Mjk2MDMyMTY4NDI5NjAzMjAwMDE3NA",
+        "snippet": {
+          "publishedAt": "2023-05-17T04:00:32+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Exciting announcements at Google I/O across mobile, web, AI, and Cloud",
+          "description": "Stay tuned every Monday for the latest developer news across Google.\n\nGoogle I/O 2023 recap: Updates across mobile, web, AI, and Cloud → https://goo.gle/3Iegmkq \n\nWatch more #DevShow → https://goo.gle/GDevShow          \n\n#GoogleIO #Google",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rrR3A__3zm8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rrR3A__3zm8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rrR3A__3zm8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rrR3A__3zm8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rrR3A__3zm8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "rrR3A__3zm8"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "kvOMndq7BBES1gWGRpLGt6evR34",
+        "id": "MTUxNjg0MjgxNDk5MTY4NDI4MTQ5OTAwMDAwNw",
+        "snippet": {
+          "publishedAt": "2023-05-16T23:58:19+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Developer Keynote (Google I/O '23) - Audio Described",
+          "description": "Learn about the latest updates to our developer products and platforms.\n\nTo watch this keynote without audio descriptions, please click here: \nhttps://goo.gle/IO23_devkey\n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://goo.gle/IO23_devkey_asl\n\n00:00 Introduction\n10:09 Mobile \n29:38 Web \n42:52 AI / Machine learning \n55:05 Cloud \n01:06:05 Close\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DLGa2ygmmk4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DLGa2ygmmk4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DLGa2ygmmk4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DLGa2ygmmk4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DLGa2ygmmk4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "DLGa2ygmmk4"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "3Gz5dHOb9uaktYonejRfpyotD1Q",
+        "id": "MTUxNjg0Mjc0NDI0MTY4NDI3NDQyNDAwMDA5OA",
+        "snippet": {
+          "publishedAt": "2023-05-16T22:00:24+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google I/O 2023 updates across mobile, web, AI, and Cloud",
+          "description": "TL;DR 341  | The Google Developer News Show\n\nResources:\nGoogle I/O 2023 recap: Updates across mobile, web, AI, and Cloud → https://goo.gle/3Iegmkq \n\n0:00 - Introduction \n0:24 - AI\n1:35 - Mobile\n2:37 - Web\n4:05 - Cloud\n4:45 - Don’t forget to like, comment, and subscribe!\n\nHere to bring you the latest developer news from across Google is Emma, a Developer Advocate. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below.\n\nFollow Google Developers on Instagram → https://goo.gle/googledevs             \n\nWatch more #DevShow → https://goo.gle/GDevShow               \nSubscribe to Google Developers → https://goo.gle/developers \n\n#Google #Developers",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "TG5KDSfRrk0"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "Zhw5SchY2JLgtq4z6H1RAri59v8",
+        "id": "MTE2ODQyNjkzMjExNjg0MjY5MzIxMDAwMDQx",
+        "snippet": {
+          "publishedAt": "2023-05-16T20:35:21+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google I/O 2023 updates across mobile, web, AI, and Cloud",
+          "description": "TL;DR 341  | The Google Developer News Show\n\nResources:\nGoogle I/O 2023 recap: Updates across mobile, web, AI, and Cloud → https://goo.gle/3Iegmkq \n\n0:00 - Introduction \n0:24 - AI\n1:35 - Mobile\n2:37 - Web\n4:05 - Cloud\n4:45 - Don’t forget to like, comment, and subscribe!\n\nHere to bring you the latest developer news from across Google is Emma, a Developer Advocate. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below.\n\nFollow Google Developers on Instagram → https://goo.gle/googledevs             \n\nWatch more #DevShow → https://goo.gle/GDevShow               \nSubscribe to Google Developers → https://goo.gle/developers \n\n#Google #Developers",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TG5KDSfRrk0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "playlistItem"
+        },
+        "contentDetails": {
+          "playlistItem": {
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "TG5KDSfRrk0"
+            },
+            "playlistId": "PLOU2XLYxmsII8REpkzsy1bJHj6G1WEVA1"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "AC3B7cQDgAjJYmpWGrFRq1eL2AU",
+        "id": "MTUxNjg0MjUyODQ4MTY4NDI1Mjg0ODAwMDkzNw",
+        "snippet": {
+          "publishedAt": "2023-05-16T16:00:48+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Getting started with Natural Language Processing  - ML on Android with MediaPipe",
+          "description": "Learn about Natural Language Processing and how it can be used for classification or finding how similar two blocks of text are. In this episode of ML on Android with MediaPipe, Paul Ruiz, shares how to implement text classification and text similarity into your Android apps with MediaPipe Tasks.\n\nResources:\nNatural Language Processing (NLP) Zero to Hero → https://goo.gle/40E0qym \nText classification on GitHub → https://goo.gle/42IeYie \nText embedding on GitHub → https://goo.gle/3M6Y5Xz \n\nWatch more episodes on ML on Android with MediaPipe → https://goo.gle/MLAMP \n\nSubscribe to Google Developers → https://goo.gle/developers \n\n\n#TensorFlow #ML #Android",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "zfDdbnnqLjc"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "nn0sGjRJdOmtGOp8E-Db3rQdPrI",
+        "id": "MTE2ODQyNTE0OTYxNjg0MjUxNDk2MDAwMjA0",
+        "snippet": {
+          "publishedAt": "2023-05-16T15:38:16+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Getting started with Natural Language Processing  - ML on Android with MediaPipe",
+          "description": "Learn about Natural Language Processing and how it can be used for classification or finding how similar two blocks of text are. In this episode of ML on Android with MediaPipe, Paul Ruiz, shares how to implement text classification and text similarity into your Android apps with MediaPipe Tasks.\n\nResources:\nNatural Language Processing (NLP) Zero to Hero → https://goo.gle/40E0qym \nText classification on GitHub → https://goo.gle/42IeYie \nText embedding on GitHub → https://goo.gle/3M6Y5Xz \n\nWatch more episodes on ML on Android with MediaPipe → https://goo.gle/MLAMP \n\nSubscribe to Google Developers → https://goo.gle/developers \n\n\n#TensorFlow #ML #Android",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zfDdbnnqLjc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "playlistItem"
+        },
+        "contentDetails": {
+          "playlistItem": {
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "zfDdbnnqLjc"
+            },
+            "playlistId": "PLOU2XLYxmsILZnKn6Erxdyhxmc3fxyitP"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "f90N2-5QwUV2z8Uz9sxCIP8Je0k",
+        "id": "MTUxNjg0MTkwNjEyMTY4NDE5MDYxMjAwMDc2Mg",
+        "snippet": {
+          "publishedAt": "2023-05-15T22:43:32+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Visual Blocks:  Ridiculously rapid ML/AI prototyping and deployment to production",
+          "description": "Visual Blocks from Google is an open source graphical programming framework for rapid prototyping and experimentation of production ideas powered by machine learning. It enables developers and decision-makers alike to work together to solve problems through powerful reusable building blocks, iterate, and then deploy with ease for all to try. You can build an end to end ML pipeline to share with your team in minutes! \n\nIn this video learn how to use Visual Blocks through real-world examples so you can adapt this knowledge to your own products and services. From creating your own social media worthy augmented reality effects on a live webcam feed, to running LLMs and generative models in a Colab powered by this visual framework to experiment chaining inputs, other models, and outputs together in powerful ways, the options are almost limitless as to what you can achieve using Visual Blocks.\n\nWe would love to hear your feedback over on the Visual Blocks Website: https://goo.gle/VisualBlocksML for feature requests and more!\n\nResources to use in this tutorial:\nPortrait image → https://goo.gle/3OcNqNR\nHearts overlay → https://goo.gle/3LMDJCF\nSunset background → https://goo.gle/3VS5D4P\nShader code → https://goo.gle/3prMnzf\nColab →  https://goo.gle/3nLTsdf\n\nKey Links:\nLearn more about Web ML → https://goo.gle/Learn-WebML\n\n#WebML #WebAI #MachineLearning #ML #TensorFlow #MadeWithTFJS",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dBEd8kY4gnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dBEd8kY4gnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dBEd8kY4gnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dBEd8kY4gnA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dBEd8kY4gnA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "dBEd8kY4gnA"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "IDXC_ImLK2asjtY9DoAKCfWPigc",
+        "id": "MTUxNjg0MTc3MjI3MTY4NDE3NzIyNzAwMDIwMA",
+        "snippet": {
+          "publishedAt": "2023-05-15T19:00:27+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Connect with Google developer communities beyond I/O",
+          "description": "Grow, build, and innovate with other developers beyond #GoogleIO. Join Google Developer Groups, Google Developer Student Clubs, Women Techmakers, or become a Google Developer Expert to expand your impact as a developer. \n\nMake sure to register for Google I/O → https://goo.gle/io23-yt  \nSubscribe to Google Developers → https://goo.gle/developers \n\n#GoogleIO #GDE #GDG",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bv58Ug2oJJ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bv58Ug2oJJ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bv58Ug2oJJ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bv58Ug2oJJ4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bv58Ug2oJJ4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "bv58Ug2oJJ4"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "BSXGihAd3NwYEtuBVbTDjFHR81I",
+        "id": "MTUxNjgzOTk3MjE1MTY4Mzk5NzIxNTAwMDQyNg",
+        "snippet": {
+          "publishedAt": "2023-05-13T17:00:15+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "The beginning of the end of the password",
+          "description": "The beginning of the end of the password → https://goo.gle/41gLgPO \n\nWatch more #DevShow → https://goo.gle/GDevShow          \n\n#Android",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YzSVoFofh1o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YzSVoFofh1o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YzSVoFofh1o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YzSVoFofh1o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YzSVoFofh1o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "YzSVoFofh1o"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "UBmMW0iXjZe9FfrAQ1Qu7EkAZQ8",
+        "id": "MTE2ODM4MzI0MDgxNjgzODMyNDA4MDAwNzc2",
+        "snippet": {
+          "publishedAt": "2023-05-11T19:13:28+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Harnessing the power of generative AI to deliver next-gen search experiences",
+          "description": "With the rise of Large Language Models, search engines are rapidly evolving with the \"semantic search\" capability. Not only do they find information with keyword matching, they deeply understand the meaning and intent of user queries from searching across texts and images to realize the AI-driven user experience (AI-UX) that is becoming the new standard. Tune into this session to explore the out-of-the-box dev tools from Enterprise Search that answers user questions like never before.\n\nResources:\nGoogle Cloud Innovators → https://goo.gle/40IWZaq\nCloud AI and machine learning products → https://goo.gle/3nGtI1r\nAI on Google Cloud → https://goo.gle/3KABP8I\n\nSpeakers: Kaz Sato, Holt Skinner\n\nWatch more:\nWatch all Google Cloud Tech Sessions → https://goo.gle/IO23_gct\nWatch all the Technical Sessions from Google I/O 2023 → https://goo.gle/IO23_sessions\nWatch more Web Sessions → https://goo.gle/IO23_web\nWatch more Cloud Sessions → https://goo.gle/IO23_cloud\nAll Google I/O 2023 Sessions → https://goo.gle/IO23_all\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HD_xreaLKb4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HD_xreaLKb4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HD_xreaLKb4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HD_xreaLKb4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HD_xreaLKb4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "playlistItem"
+        },
+        "contentDetails": {
+          "playlistItem": {
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "HD_xreaLKb4"
+            },
+            "playlistId": "PLOU2XLYxmsIKqt_HI3yc516rbBca_hli2"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "Ur82XurJ7edLUfgSA2WbF_XgmwQ",
+        "id": "MTE2ODM4MjEzMjcxNjgzODIxMzI3MDAwNjc4",
+        "snippet": {
+          "publishedAt": "2023-05-11T16:08:47+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Top AI/ML announcements from Google I/O 2023",
+          "description": "Catch the top takeaways in AI and ML from Google I/O 2023. Joe Fernandez shares the latest updates, tools, and guidance available for creating and deploying models with Google artificial intelligence tech. From responsible generative AI to Kaggle models, TensorFlow, applied ML with Keras, Web ML, and beyond. There are sessions, workshops, and learning pathways for deeper understanding.\n\nFor a complete overview of Google's artificial intelligence and machine learning offerings visit → https://goo.gle/3LAWVEC \n\nJoin the waitlist to access the PaLM API for generative AI → https://goo.gle/4248lWY \n\nWatch more:\nWatch more AI/ML sessions → https://goo.gle/IO23_ai_ml\nAll Google I/O 2023 sessions → https://goo.gle/IO23_all \n\nSubscribe to TensorFlow → https://goo.gle/TensorFlow \n\n#GoogleIO #GoogleAI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "playlistItem"
+        },
+        "contentDetails": {
+          "playlistItem": {
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "ot0I7YE7VcE"
+            },
+            "playlistId": "PLOU2XLYxmsIKqt_HI3yc516rbBca_hli2"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "me6l3l1HCxgxG-Vcx0y-W7Z8jiU",
+        "id": "MTE2ODM3ODkzMTkxNjgzNzg5MzE5MDAwMTM1",
+        "snippet": {
+          "publishedAt": "2023-05-11T07:15:19+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google I/O 2023 Developer Keynote in 5 minutes",
+          "description": "Discover what’s new from Google, including top takeaways and highlights announced at Google I/O 2023. From deep investments in the largest mobile platform, to breakthroughs in AI, learn about the latest capabilities in mobile, web, Cloud, AI, and more. \n\nCatch the full Developer Keynote →https://goo.gle/dev-keynote-23 \nWatch all the Keynotes from Google I/O 2023→ https://goo.gle/IO23_keynotes\nWatch all the Google I/O 2023 Sessions → https://goo.gle/IO23_all \n\n0:00 - Welcome\n0:25 - MakerSuite\n0:49 - Android Studio Bot\n1:38 - Large screens\n2:04 - Wear OS\n2:34  - WebGPU\n2:58 - Baseline\n3:27 - MediaPipe\n3:57 - Duet AI for Google Cloud\n4:59 - Closing\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO #developers",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "playlistItem"
+        },
+        "contentDetails": {
+          "playlistItem": {
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "hleLlcHwQLM"
+            },
+            "playlistId": "PLOU2XLYxmsIIwZQkAPhJZg8jaNrrHk1DH"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "jbwqozizKI2kNd5iD0pTIOnCHrc",
+        "id": "MTUxNjgzNzY0NDQ2MTY4Mzc2NDQ0NjAwMDA4NQ",
+        "snippet": {
+          "publishedAt": "2023-05-11T00:20:46+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What's new in Google Home in less than 1 minute",
+          "description": "Discover how your connected devices can do more with Google Home using Matter and Automations at Google I/O 2023.\n\nTo learn more about what's new in Google Home, check out the keynote → https://goo.gle/IO23_homekey\n\nSubscribe to Google Developers → https://goo.gle/developers \n\n#GoogleIO #GoogleHome",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wysukDrMdqU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wysukDrMdqU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wysukDrMdqU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wysukDrMdqU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wysukDrMdqU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "wysukDrMdqU"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "Ry9OsxvuZKfV7oBvB9HLjb9D420",
+        "id": "MTE2ODM3NjAzMjYxNjgzNzYwMzI2MDAwNjk3",
+        "snippet": {
+          "publishedAt": "2023-05-10T23:12:06+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Top web things at Google I/O '23",
+          "description": "We’re breaking down all things web at Google I/O 2023! From the latest in the web, Chrome DevTools, web UI, and much more - catch the recap now!\n\nWatch the Web sessions → https://goo.gle/IO23_web \nSubscribe to Google Chrome Developers → https://goo.gle/ChromeDevs \n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "playlistItem"
+        },
+        "contentDetails": {
+          "playlistItem": {
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "gkAYHomO5Hg"
+            },
+            "playlistId": "PLOU2XLYxmsIJGxIV8Lt8gF_79Z334LQ6h"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "_bxgC8T4sQNpiB9XDpnTBS_WzCs",
+        "id": "MTUxNjgzNzU3ODQ4MTY4Mzc1Nzg0ODAwMDUwMw",
+        "snippet": {
+          "publishedAt": "2023-05-10T22:30:48+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Google I/O 2023 Developer Keynote in 5 minutes",
+          "description": "Discover what’s new from Google, including top takeaways and highlights announced at Google I/O 2023. From deep investments in the largest mobile platform, to breakthroughs in AI, learn about the latest capabilities in mobile, web, Cloud, AI, and more. \n\nCatch the full Developer Keynote →https://goo.gle/dev-keynote-23 \nWatch all the Keynotes from Google I/O 2023→ https://goo.gle/IO23_keynotes\nWatch all the Google I/O 2023 Sessions → https://goo.gle/IO23_all \n\n0:00 - Welcome\n0:25 - MakerSuite\n0:49 - Android Studio Bot\n1:38 - Large screens\n2:04 - Wear OS\n2:34  - WebGPU\n2:58 - Baseline\n3:27 - MediaPipe\n3:57 - Duet AI for Google Cloud\n4:59 - Closing\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO #developers",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hleLlcHwQLM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "hleLlcHwQLM"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "_cB82KXmCxCmkrNUbrQ-VXcYLwc",
+        "id": "MTE2ODM3NTY2NTUxNjgzNzU2NjU1MDAwMzIy",
+        "snippet": {
+          "publishedAt": "2023-05-10T22:10:55+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Gaming with muscular dystrophy | Project GameFace featuring Lance Carr | Google",
+          "description": "Lance Carr - a Colorado gamer with a rare form of muscular dystrophy - was at home playing video games one afternoon when a fire turned his life upside down. \n\nThis year at I/O, we’re celebrating Lance’s resilient return to gaming. Over the last year, Lance collaborated with a team of Googlers to co-create a new technology that uses MediaPipe and Tensor Flow Lite to turn facial gestures into mouse movements. The resulting solution is now open-sourced and available for everyone to game and create with. \n\nFor a quick recap of Google I/O, check out this video: https://youtu.be/QpBTM0GO6xI\n\n#googleio \n\nSubscribe to our Channel: https://www.youtube.com/google\r\nTweet with us on Twitter: https://twitter.com/google\r\nFollow us on Instagram: https://www.instagram.com/google\r\nJoin us on Facebook: https://www.facebook.com/Google",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WKr8qOJvNas/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WKr8qOJvNas/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WKr8qOJvNas/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WKr8qOJvNas/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WKr8qOJvNas/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "playlistItem"
+        },
+        "contentDetails": {
+          "playlistItem": {
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "WKr8qOJvNas"
+            },
+            "playlistId": "PLOU2XLYxmsIKsEnF6CdfRK1Vd6XUn_QMu"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "MeWR39XDdlUpmaddJ4-kE8ZyIEE",
+        "id": "MTUxNjgzNzUzOTQ3MTY4Mzc1Mzk0NzAwMDcyMg",
+        "snippet": {
+          "publishedAt": "2023-05-10T21:25:47+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What's new in Google Pay and Wallet in less than 1 minute",
+          "description": "A quick recap on the latest updates to Google Pay and Wallet from Google I/O 2023.\n\nTo learn more about what's new in Google Pay and Wallet, check out the keynote → https://goo.gle/IO23_paywallet\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lMKjtSFujcw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lMKjtSFujcw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lMKjtSFujcw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lMKjtSFujcw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lMKjtSFujcw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "lMKjtSFujcw"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "AK7YOSpC_GkxgqS4fKorpobBapc",
+        "id": "MTUxNjgzNzUxNjc3MTY4Mzc1MTY3NzAwMDE4MQ",
+        "snippet": {
+          "publishedAt": "2023-05-10T20:47:57+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Developers guide to BigQuery export for Google Analytics 4",
+          "description": "With Google Analytics 4 (GA4), anyone can set up export of granular measurement data to BigQuery.\n\nIn this session, you will learn how to use the BigQuery export for solving business problems, doing complex reporting, implementing advanced use cases with ML models, and creating custom audiences by joining with first-party data. You can use this framework for detailed or large-scale data analysis. We will also share some best practices to get you started.\n\nResources:\nDevelopers guide to BigQuery export for Google Analytics 4 → https://goo.gle/ga-io23\n\nSpeaker: Minhaz Kazi\n\nWatch more:\nWatch all the Technical Sessions from Google I/O 2023 → https://goo.gle/IO23_sessions\nWatch more Mobile Sessions → https://goo.gle/IO23_mobile\nWatch more Web Sessions → https://goo.gle/IO23_web\nAll Google I/O 2023 Sessions → https://goo.gle/IO23_all\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c0mqBuXPrpA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c0mqBuXPrpA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c0mqBuXPrpA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c0mqBuXPrpA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c0mqBuXPrpA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "c0mqBuXPrpA"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "-JpEv-wDzE-5jZarAP9DFbSdAAY",
+        "id": "MTUxNjgzNzUxNTg5MTY4Mzc1MTU4OTAwMDAxMw",
+        "snippet": {
+          "publishedAt": "2023-05-10T20:46:29+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What's new in Google Home - American Sign Language",
+          "description": "To watch this Session without American Sign Language (ASL) interpretation, please click here → https://goo.gle/IO23_homekey\n\nDiscover how your connected devices can do more with Google Home using Matter and Automations.\n\nResources:\nGoogle Home Developer Center → https://goo.gle/3KcD5xr\n\nDiscover how your connected devices can do more with Google Home using Matter and Automations\nGoogle Home APIs Developer Preview → https://goo.gle/3UakRl0\nAutomations Developer Preview → https://goo.gle/3KgEcMy\n\nSpeakers: Taylor Lehman, Indu Ramamurthi\n\nWatch more:\nWatch more Mobile Sessions → https://goo.gle/IO23_mobile\nAll Google I/O 2023 Sessions → https://goo.gle/IO23_all\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_n9xwuTORas/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_n9xwuTORas/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_n9xwuTORas/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_n9xwuTORas/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_n9xwuTORas/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "_n9xwuTORas"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "uG_pT0Z855TwYmAReS6mpBApebM",
+        "id": "MTUxNjgzNzUxNTM5MTY4Mzc1MTUzOTAwMDQ4Mw",
+        "snippet": {
+          "publishedAt": "2023-05-10T20:45:39+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What's new in Google Pay and Wallet - American Sign Language",
+          "description": "To watch this Session without American Sign Language (ASL) interpretation, please click here → https://goo.gle/IO23_paywallet\n\nDiscover the latest updates to Google Pay and Wallet. Learn about partnerships within the Google ecosystem that minimize fraud and bring more verified payment methods to more markets. Dive into new API features that allow developers to optimize checkout conversions and testing. Explore the expanded support for Google Wallet across Android and Wearables, verticals, and experiences. \n\nResources:\nSimplify your Google Pay integration on Android with the new button view → https://g.co/pay/button-view\nIntroduce manual and automated payment tests to your test suite → https://g.co/pay/test-cards\nLearn more about virtual card numbers → https://g.co/pay/virtual-cards\nStart using Autofill across iframes → https://g.co/pay/shared-autofill\nExplore the list of countries where Google Wallet is available → https://g.co/wallet/countries\nCreate seamless experiences for your passes with RCS → https://g.co/wallet/rich-messages\nFurther secure your passes with rotating barcodes → https://g.co/wallet/rotating-barcodes\nAssociate passes with specific users using identity links → https://g.co/wallet/identity-linked-passes\nPreview your passes with the Google Wallet pass builder → https://g.co/wallet/pass-builder\nSign-up to stay up to date about Google Wallet news → https://g.co/wallet/newsletter\nJoin the early-access program for Secure Payment Authentication → https://goo.gle/spa-contact\nSign-up to add additional information the cards you issue → https://goo.gle/rich-card-info\nRefer to the Acceptable Use Policy for Google Pay and Google Wallet to learn how you can use the Generic Private Pass API → https://g.co/pay/acceptable-use\nGoogle Pay Developer Documentation → https://goo.gle/3nL8rnw\nGoogle Wallet Developer Documentation → https://goo.gle/3nNzEpF\nGoogle Pay & Wallet Console → https://goo.gle/3Kz4PxK\nWhac-A-Card  → https://g.co/pay/whac-a-card-game \nU-go-I/O! → http://g.co/wallet/ugo-io-game\nGoogle Wallet pass builder → http://g.co/wallet/pass-builder\n\nSpeakers: Edson Yanaga, Robert Dunnette\n\nWatch more:\nWatch more Mobile Sessions → https://goo.gle/IO23_mobile\nAll Google I/O 2023 Sessions → https://goo.gle/IO23_all\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uVd-npnOX_4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uVd-npnOX_4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uVd-npnOX_4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uVd-npnOX_4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uVd-npnOX_4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "uVd-npnOX_4"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "BgUqa5h-hpDBMla6_XL8wdo7Axo",
+        "id": "MTUxNjgzNzUxNDI4MTY4Mzc1MTQyODAwMDI5Mw",
+        "snippet": {
+          "publishedAt": "2023-05-10T20:43:48+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Developer keynote (Google I/O '23)",
+          "description": "Learn about the latest updates to our developer products and platforms at Google I/O 2023.\n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here → \nhttps://goo.gle/IO23_devkey_asl\n\nFor a recap of what's new from Google I/O check out  → https://goo.gle/io23-devrecap\n\n00:00 Introduction\n10:09 Mobile \n29:38 Web \n42:52 AI / Machine learning \n55:05 Cloud \n01:06:05 Close\n\nWatch all the  Keynotes from Google I/O 2023→ https://goo.gle/IO23_keynotes\nWatch all the Google I/O 2023 Sessions → https://goo.gle/IO23_all \n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#googleio",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r8T0SnwHRNI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "r8T0SnwHRNI"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "rBIRiqn2wNUnacs4Yvd9aLL5vBs",
+        "id": "MTUxNjgzNzUxMzEzMTY4Mzc1MTMxMzAwMDgyNQ",
+        "snippet": {
+          "publishedAt": "2023-05-10T20:41:53+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Developer keynote (Google I/O '23) - American Sign Language",
+          "description": "Learn about the latest updates to our developer products and platforms.\n\nTo watch this keynote without American Sign Language (ASL) interpretation, please click here → https://goo.gle/IO23_devkey\n\nFor a recap of what's new from Google I/O check out  → https://goo.gle/io23-devrecap\n\n00:00 Introduction\n10:09 Mobile \n29:38 Web \n42:52 AI / Machine learning \n55:05 Cloud \n01:06:05 Close\n\nWatch all the  Keynotes from Google I/O 2023→ https://goo.gle/IO23_keynotes\nWatch all the Google I/O 2023 Sessions → https://goo.gle/IO23_all \n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#googleio",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XG_lHZNG6CE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XG_lHZNG6CE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XG_lHZNG6CE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XG_lHZNG6CE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XG_lHZNG6CE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "XG_lHZNG6CE"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "R6JC769HkiqxMkouy7xy6C-bSp4",
+        "id": "MTUxNjgzNzUxMDA3MTY4Mzc1MTAwNzAwMDUzNw",
+        "snippet": {
+          "publishedAt": "2023-05-10T20:36:47+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "Easy on-device Machine Learning with MediaPipe",
+          "description": "Learn about the next generation of MediaPipe Solutions, a product suite that enables developers to easily integrate on-device machine learning solutions into applications across platforms: Android, web, desktop, and many more. You can also customize some of these solutions easily using your own training dataset in just a few lines of code. Join us to know more about the new solutions and features that were just launched!\n\nResources:\nMediaPipe Studio → https://goo.gle/3mdjXHF\nMediaPipe documentation → https://goo.gle/40HycUi\nRock-paper-scissor demo → https://goo.gle/mediapipe-rock-paper-scissor\nVirtual avatar demo → https://goo.gle/mediapipe-face-avatar\nFind full set of ML resources here → https://g.co/ai/build\n\nSpeaker: Khanh LeViet\n\nWatch more:\nWatch all the Technical Sessions from Google I/O 2023 → https://goo.gle/IO23_sessions\nWatch more AI/ML Sessions → https://goo.gle/IO23_ai_ml\nAll Google I/O 2023 Sessions → https://goo.gle/IO23_all\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yOP_FY2KTm8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yOP_FY2KTm8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yOP_FY2KTm8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yOP_FY2KTm8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yOP_FY2KTm8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "yOP_FY2KTm8"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "QhqSriXb2M2x-Nb4-qD9I2ZwmKQ",
+        "id": "MTUxNjgzNzUxMDAyMTY4Mzc1MTAwMjAwMDQwMw",
+        "snippet": {
+          "publishedAt": "2023-05-10T20:36:42+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What's new in Google Pay and Wallet",
+          "description": "Discover the latest updates to Google Pay and Wallet. Learn about partnerships within the Google ecosystem that minimize fraud and bring more verified payment methods to more markets. Dive into new API features that allow developers to optimize checkout conversions and testing. Explore the expanded support for Google Wallet across Android and Wearables, verticals, and experiences.\n\nTo watch this Keynote interpreted in American Sign Language (ASL), please click here → https://goo.gle/IO23_paywallet_asl\n\nResources:\nSimplify your Google Pay integration on Android with the new button view → https://g.co/pay/button-view\nIntroduce manual and automated payment tests to your test suite → https://g.co/pay/test-cards\nLearn more about virtual card numbers → https://g.co/pay/virtual-cards\nStart using Autofill across iframes → https://g.co/pay/shared-autofill\nExplore the list of countries where Google Wallet is available → https://g.co/wallet/countries\nCreate seamless experiences for your passes with RCS → https://g.co/wallet/rich-messages\nFurther secure your passes with rotating barcodes → https://g.co/wallet/rotating-barcodes\nAssociate passes with specific users using identity links → https://g.co/wallet/identity-linked-passes\nPreview your passes with the Google Wallet pass builder → https://g.co/wallet/pass-builder\nSign-up to stay up to date about Google Wallet news → https://g.co/wallet/newsletter\nJoin the early-access program for Secure Payment Authentication → https://goo.gle/spa-contact\nSign-up to add additional information the cards you issue → https://goo.gle/rich-card-info\nRefer to the Acceptable Use Policy for Google Pay and Google Wallet to learn how you can use the Generic Private Pass API → https://g.co/pay/acceptable-use\nGoogle Pay Developer Documentation → https://goo.gle/3nL8rnw\nGoogle Wallet Developer Documentation → https://goo.gle/3nNzEpF\nGoogle Pay & Wallet Console → https://goo.gle/3Kz4PxK\nWhac-A-Card  → https://g.co/pay/whac-a-card-game \nU-go-I/O! → http://g.co/wallet/ugo-io-game\nGoogle Wallet pass builder → http://g.co/wallet/pass-builder\n\nSpeakers: Edson Yanaga, Robert Dunnette\n\nWatch more:\nWatch all the Keynotes from Google I/O 2023→ https://goo.gle/IO23_keynotes\nWatch more Mobile Sessions → https://goo.gle/IO23_mobile\nAll Google I/O 2023 Sessions → https://goo.gle/IO23_all\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xJxzdqcGJQk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xJxzdqcGJQk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xJxzdqcGJQk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xJxzdqcGJQk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xJxzdqcGJQk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "xJxzdqcGJQk"
+          }
+        }
+      },
+      {
+        "kind": "youtube#activity",
+        "etag": "MQG0rUbHe1LXFotTnHur50ZfU6Y",
+        "id": "MTUxNjgzNzUwOTk3MTY4Mzc1MDk5NzAwMDUyMw",
+        "snippet": {
+          "publishedAt": "2023-05-10T20:36:37+00:00",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "What's new in Google Home",
+          "description": "Discover how your connected devices can do more with Google Home using Matter and Automations.\n\nTo watch this Keynote interpreted in American Sign Language (ASL), please click here → https://goo.gle/IO23_homekey_asl\n\nResources:\nGoogle Home Developer Center → https://goo.gle/3KcD5xr\n\nDiscover how your connected devices can do more with Google Home using Matter and Automations\nGoogle Home APIs Developer Preview → https://goo.gle/3UakRl0\nAutomations Developer Preview → https://goo.gle/3KgEcMy\n\nSpeakers: Taylor Lehman, Indu Ramamurthi\n\nWatch more:\nWatch all the Keynotes from Google I/O 2023→ https://goo.gle/IO23_keynotes\nWatch more Mobile Sessions → https://goo.gle/IO23_mobile\nAll Google I/O 2023 Sessions → https://goo.gle/IO23_all\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CXaxMXZwaaw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CXaxMXZwaaw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CXaxMXZwaaw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CXaxMXZwaaw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CXaxMXZwaaw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Google for Developers",
+          "type": "upload"
+        },
+        "contentDetails": {
+          "upload": {
+            "videoId": "CXaxMXZwaaw"
+          }
+        }
+      }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+      "totalResults": 60,
+      "resultsPerPage": 25
+    }
+  }
+  
